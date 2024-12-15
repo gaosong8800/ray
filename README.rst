@@ -138,3 +138,33 @@ Getting Involved
 .. _`Meetup Group`: https://www.meetup.com/Bay-Area-Ray-Meetup/
 .. _`Twitter`: https://twitter.com/raydistributed
 .. _`Slack`: https://www.ray.io/join-slack?utm_source=github&utm_medium=ray_readme&utm_campaign=getting_involved
+
+
+.. _`Ray AI Libraries`: https://docs.ray.io/en/latest/ray-air/getting-started.html
+.. _`Ray Core`: https://docs.ray.io/en/latest/ray-core/walkthrough.html
+.. _`Tasks`: https://docs.ray.io/en/latest/ray-core/tasks.html
+.. _`Actors`: https://docs.ray.io/en/latest/ray-core/actors.html
+.. _`Objects`: https://docs.ray.io/en/latest/ray-core/objects.html
+.. _`Documentation`: http://docs.ray.io/en/latest/index.html
+.. _`Ray Architecture v1 whitepaper`: https://docs.google.com/document/d/1lAy0Owi-vPz2jEqBSaHNQcy2IBSDEHyXNOQZlGuj93c/preview
+.. _`Ray Architecture whitepaper`: https://docs.google.com/document/d/1tBw9A4j62ruI5omIJbMxly-la5w4q_TjyJgJL_jN2fI/preview
+.. _`Exoshuffle: large-scale data shuffle in Ray`: https://arxiv.org/abs/2203.05072
+.. _`Ownership: a distributed futures system for fine-grained tasks`: https://www.usenix.org/system/files/nsdi21-wang.pdf
+.. _`Ray paper`: https://arxiv.org/abs/1712.05889
+.. _`Ray HotOS paper`: https://arxiv.org/abs/1703.03924
+.. _`RLlib paper`: https://arxiv.org/abs/1712.09381
+.. _`Tune paper`: https://arxiv.org/abs/1807.05118
+.. _`Ray AI Libraries`: https://docs.ray.io/en/latest/ray-air/getting-started.html
+.. _`Ray Core`: https://docs.ray.io/en/latest/ray-core/walkthrough.html
+.. _`Tasks`: https://docs.ray.io/en/latest/ray-core/tasks.html
+.. _`Actors`: https://docs.ray.io/en/latest/ray-core/actors.html
+.. _`Objects`: https://docs.ray.io/en/latest/ray-core/objects.html
+.. _`Documentation`: http://docs.ray.io/en/latest/index.html
+.. _`Ray Architecture v1 whitepaper`: https://docs.google.com/document/d/1lAy0Owi-vPz2jEqBSaHNQcy2IBSDEHyXNOQZlGuj93c/preview
+.. _`Ray Architecture whitepaper`: https://docs.google.com/document/d/1tBw9A4j62ruI5omIJbMxly-la5w4q_TjyJgJL_jN2fI/preview
+.. _`Exoshuffle: large-scale data shuffle in Ray`: https://arxiv.org/abs/2203.05072
+.. _`Ownership: a distributed futures system for fine-grained tasks`: https://www.usenix.org/system/files/nsdi21-wang.pdf
+.. _`Ray paper`: https://arxiv.org/abs/1712.05889
+.. _`Ray HotOS paper`: https://arxiv.org/abs/1703.03924
+.. _`RLlib paper`: https://arxiv.org/abs/1712.09381
+.. _`Tune paper`: https://arxiv.org/abs/1807.05118
